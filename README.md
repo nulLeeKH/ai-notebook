@@ -1,2 +1,2 @@
-# artificial-intelligence-notebook
+# ai-notebook
 Artificial Intelligence notebook by nulLeeKH
